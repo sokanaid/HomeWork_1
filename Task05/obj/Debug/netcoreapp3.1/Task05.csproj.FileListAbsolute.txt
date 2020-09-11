@@ -1,0 +1,13 @@
+D:\диана институт\Программирование\Task01\Task05\bin\Debug\netcoreapp3.1\Task05.exe
+D:\диана институт\Программирование\Task01\Task05\bin\Debug\netcoreapp3.1\Task05.deps.json
+D:\диана институт\Программирование\Task01\Task05\bin\Debug\netcoreapp3.1\Task05.runtimeconfig.json
+D:\диана институт\Программирование\Task01\Task05\bin\Debug\netcoreapp3.1\Task05.runtimeconfig.dev.json
+D:\диана институт\Программирование\Task01\Task05\bin\Debug\netcoreapp3.1\Task05.dll
+D:\диана институт\Программирование\Task01\Task05\bin\Debug\netcoreapp3.1\Task05.pdb
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.csprojAssemblyReference.cache
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.AssemblyInfoInputs.cache
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.AssemblyInfo.cs
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.csproj.CoreCompileInputs.cache
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.dll
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.pdb
+D:\диана институт\Программирование\Task01\Task05\obj\Debug\netcoreapp3.1\Task05.genruntimeconfig.cache

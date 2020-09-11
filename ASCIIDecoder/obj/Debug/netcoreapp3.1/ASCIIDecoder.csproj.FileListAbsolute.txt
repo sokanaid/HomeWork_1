@@ -1,0 +1,12 @@
+D:\диана институт\Программирование\Task01\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.exe
+D:\диана институт\Программирование\Task01\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.deps.json
+D:\диана институт\Программирование\Task01\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.runtimeconfig.json
+D:\диана институт\Программирование\Task01\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.runtimeconfig.dev.json
+D:\диана институт\Программирование\Task01\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.dll
+D:\диана институт\Программирование\Task01\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.pdb
+D:\диана институт\Программирование\Task01\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.AssemblyInfoInputs.cache
+D:\диана институт\Программирование\Task01\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.AssemblyInfo.cs
+D:\диана институт\Программирование\Task01\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.csproj.CoreCompileInputs.cache
+D:\диана институт\Программирование\Task01\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.dll
+D:\диана институт\Программирование\Task01\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.pdb
+D:\диана институт\Программирование\Task01\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.genruntimeconfig.cache
