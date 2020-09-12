@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using static System.Console;
 /*
  Дисциплина: "Программирование"
@@ -23,13 +23,20 @@ namespace Task04
             Console.WriteLine("Введиите напряжение и сопротивление");
             string input = ReadLine();
             double U, R;
-            
-            double.TryParse(input,out U);//ввод напряжения
+
+            if (!double.TryParse(input, out U))//ввод напряжения,проверка данных на корректность
+            {
+                Console.WriteLine("Ошииибка!");
+                return;
+            }
 
             input = ReadLine();
-            double.TryParse(input, out R);//ввод сопротивления
-
-            if (Math.Abs(R) < eps)//проверка корректности данных
+            if (!double.TryParse(input, out R))//ввод сопротивления,проверка данных на корректность
+            {
+                Console.WriteLine("Ошииибка!");
+                return;
+            }
+            if (Math.Abs(R) < eps)//проверка корректности данных R!=0
             {
                 Console.WriteLine("Ошииибка!");
                 return;
